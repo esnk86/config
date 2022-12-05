@@ -1,0 +1,6 @@
+[user]
+    name = Edward Sankey
+    email = pony_git@fastmail.com
+
+[init]
+    defaultBranch = main
